@@ -17,7 +17,7 @@ If you run into any issues or have binaries that don’t disassemble correctly, 
 * Compile
 ``gcc upd7810_disassem.c -o upd7810_disassem``
 * Run
-``./disassembler <binary_name>.bin``
+``./disassembler -i <binary_name>.bin``
 
 ### License
 This project is released under the Apache 2.0 license with the Commons Clause.
