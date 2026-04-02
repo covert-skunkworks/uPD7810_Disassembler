@@ -19,6 +19,12 @@ If you run into any issues or have binaries that don’t disassemble correctly, 
 * Run
 ``./disassembler -i <binary_name>.bin``
 
+## Pricing
+
+This tool is provided to everyone for free, however if you would like to say thanks or help support continued development of this and projects to come, feel free to send a coffee:
+
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="BuyMeACoffee" width="100">](https://www.buymeacoffee.com/covert.skunkworks)
+
 ### License
 This project is released under the Apache 2.0 license with the Commons Clause.
 You are free to use it privately, modify it, and commercially use any data or outputs it generates.
